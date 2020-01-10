@@ -1,6 +1,5 @@
 # first-api
-A quick demo-able app using mulesoft running locally to say hello!
-
+A quick demo-able app using mulesoft running locally to say hi!
 
 I used the built in naming convention so this handler will need edited.
 http://localhost:8081/greeting
