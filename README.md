@@ -14,5 +14,5 @@ http://localhost:8081/greeting
 
 ## API SWAGGER
 1. This is the swagger.yaml file in the root of the project.
-2. To view this spec, navigate [here](http://editor.swagger.io/)
+2. To view this spec, copy this file into [here](http://editor.swagger.io/)
 3. For now this swagger is more of an example template.
