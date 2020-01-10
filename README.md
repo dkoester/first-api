@@ -6,7 +6,7 @@ http://localhost:8081/greeting
 
 ## TO RUN LOCALLY
 1. Clone this repo
-2. Import the project into mulesoft.
+2. Import the project into mulesoft
 3. Make sure the package Explorer shows the project
 4. Right click on the project -> Run As -> Mule Application
 5. Boom, you have a running API with a single GET endpoint
