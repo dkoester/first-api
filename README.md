@@ -5,7 +5,7 @@ A quick demo-able app using mulesoft running locally to say hello!
 I used the built in naming convention so this handler will need edited.
 http://localhost:8081/greeting
 
-## TO RUN
+## TO RUN LOCALLY
 1. Clone this repo
 2. Import the project into mulesoft.
 3. Make sure the package Explorer shows the project
