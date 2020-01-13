@@ -15,3 +15,7 @@ http://localhost:8081/greeting
 1. This is the swagger.yaml file in the root of the project.
 2. To view this spec, copy this file into [here](http://editor.swagger.io/)
 3. For now this swagger is more of an example template.
+
+### External API
+1. Required to have the second external endpoint returning. Make an api to return something at `localhost:5000/examples`
+2. A Python/Flask API was built an is under my repo 
