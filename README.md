@@ -19,3 +19,6 @@ http://localhost:8081/greeting
 ### External API
 1. Required to have the second external endpoint returning. Make an api to return something at `localhost:5000/examples`
 2. A Python/Flask API was built an is under my repo 
+
+### DB 
+1. TBD
